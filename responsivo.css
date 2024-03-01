@@ -1,7 +1,7 @@
 @media (max-width: 769px){
     main .conteudo .imagem{
-        height: 530px;
-        width: 750px;
+        height: 730px;
+        
         
     }
 
@@ -34,18 +34,19 @@
         font-size: 25px;
     }
     .button {
-        width: 75px;
+        width: 80px;
         height: 40px;
-        font-size: 12px;
+        font-size: 11px;
         font-weight: bold;
         color: black;
         
     }
     .buttons .button.selecionado {
-        width: 75px;
+        width: 80px;
         height: 45px;
-        font-size: 12px;
+        font-size: 11px;
         color: black;
+        
     }
     
     .titulo-movie {
