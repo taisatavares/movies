@@ -72,7 +72,7 @@
     }
     main .pg-inicial{
         position: absolute;
-        top: 475px;
+        top: 470px;
         left: 15px;
         display: flex;
         flex-direction: column;
