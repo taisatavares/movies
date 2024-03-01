@@ -1,7 +1,11 @@
 @media (max-width: 769px){
     main .conteudo .imagem{
-        height: 85%;
+        height: 600px;
+        width: 700px;
+        
     }
+
+    
     main .img-filmes{
         width: 120px;
         height: 130px;
@@ -16,8 +20,8 @@
         position: absolute;
         top: 280px;
         left: 15px;
-        width: 320px;
-        height: 160px;
+        width: 590px;
+        height: 100px;
         min-height: 30vh;
         font-size: 13px;
     }
@@ -25,7 +29,7 @@
         width: 110px;
     }
     .genero-movie{
-        font-size: 35px;
+        font-size: 25px;
     }
     .button {
         width: 75px;
@@ -41,21 +45,22 @@
     }
     
     .titulo-movie {
-        font-size: 30px;
+        font-size: 20px;
         
     }
 
     .sinopse{
-        max-width: 300px;
+        max-width: 250px;
         
     }
 
     .botoes {
-        flex-direction: row;
+        flex-direction: column;
         align-items: flex-end;
         width: 100%;
+        margin-right: 20px;
         
-        padding: 30px;
+        
         
     }
     .botoes .botao img {
