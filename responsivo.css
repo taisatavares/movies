@@ -1,7 +1,7 @@
 @media (max-width: 769px){
     main .conteudo .imagem{
-        height: 600px;
-        
+        height: 530px;
+        width: 750px;
         
     }
 
@@ -38,6 +38,7 @@
         height: 40px;
         font-size: 12px;
         font-weight: bold;
+        color: black;
         
     }
     .buttons .button.selecionado {
@@ -59,7 +60,9 @@
 
     .botoes {
         flex-direction: column;
-        align-items: flex-end;
+        /*align-items: flex-end;*/
+        left: 430px;
+        top: -80px;
         background: none;
         margin-right: 20px;
         
